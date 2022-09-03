@@ -1,6 +1,6 @@
 ---
-layout: default
 title: 'Ultraman: the Ultimate Hero'
+layout: default
 has_children: true
 ---
 
